@@ -161,6 +161,14 @@ The system can **dynamically switch the active AI model** if:
 - **Ultra-Fast Copytrading (<50ms)** — Automatically mirrors selected traders with sub-50 ms latency. Servers are colocated near Polymarket infrastructure, giving you a speed advantage over most market participants.
 - **Real-Time Dashboard** — Live performance metrics, positions, PnL, trader analytics, and liquidity stats consolidated in one interface.
 - **Multi-Model Support** — Compatible with ChatGPT, DeepSeek, Gemini, Grok, and Claude.
+### **15-min arbitrage bot** - Trades only BTC Up or Down.
+```
+> Waits until one of the outcomes (YES/NO) falls below 35¢
+> Buy more when the average price is low
+> Watch how the opposite outcome moves
+> Makes sure the total average prices are under $0.99
+> If he doesn’t have a hedge, just closing the position with no losses
+```
 ---
 
 ## 🔒 Security
